@@ -1,5 +1,6 @@
-# 🚖 Uber Ride Bookings Analysis – Trends, Insights & Predictions
-Project Overview
+# Uber Ride Bookings Analysis – Trends, Insights & Predictions
+
+## 🚖 Project Overview
 This project analyzes Uber ride bookings in NCR to uncover demand patterns, vehicle usage, cancellations, and pricing dynamics. Using Exploratory Data Analysis (EDA), the goal is to extract business insights.
 
 ## 📊 Dataset
