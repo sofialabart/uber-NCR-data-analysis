@@ -1,8 +1,8 @@
-🚖 Uber Ride Bookings Analysis – Trends, Insights & Predictions
+# 🚖 Uber Ride Bookings Analysis – Trends, Insights & Predictions
 Project Overview
 This project analyzes Uber ride bookings in NCR to uncover demand patterns, vehicle usage, cancellations, and pricing dynamics. Using Exploratory Data Analysis (EDA), the goal is to extract business insights.
 
-📊 Dataset
+## 📊 Dataset
 The dataset includes Uber ride bookings with the following key features:
 
 - Date & Time of ride
@@ -11,7 +11,7 @@ The dataset includes Uber ride bookings with the following key features:
 - Vehicle Type (Car, Auto, eBike, etc.)
 - Cancellation Reasons (by customer and driver)
 
-📈 Analysis Workflow
+## 📈 Analysis Workflow
 
 - Data Preparation
 - Cleaned duplicates and missing values
@@ -19,7 +19,7 @@ The dataset includes Uber ride bookings with the following key features:
 - Created new features: Year, Month, Weekday
 - Combined driver & customer cancellation reasons
 
-🔎 Exploratory Data Analysis (EDA)
+## 🔎 Exploratory Data Analysis (EDA)
 
 - Ride demand by weekday, month, and hour
 - Vehicle type analysis (distance and booking value)
